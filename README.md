@@ -16,3 +16,7 @@
   
 # Usage
   Embed it with other scripts or Open captcha and call the obj.solve() method
+
+
+# NOTE
+  if Captcha solver is not recognizing Captcha Images, Make sure to capture each image and replace you see in the `files/` directory
