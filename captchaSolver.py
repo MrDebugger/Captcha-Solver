@@ -1,5 +1,6 @@
 
 import pyautogui
+from pyperclip import paste
 from time import sleep
 from subprocess import call
 from requests import get as ge
